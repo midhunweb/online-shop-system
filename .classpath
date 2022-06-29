@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/ECS/Downloads/mysql-connector-java-5.1.23-bin.jar/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECS/Downloads/com.mysql.jdbc_5.1.5.jar/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECS/Downloads/apache-commons.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/ECS/Downloads/commons/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECS/Downloads/jakarta5/jakarta.servlet-api-5.0.0-M2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ECS/Downloads/javax.servlet/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
